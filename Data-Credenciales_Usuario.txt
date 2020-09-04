@@ -1,11 +1,11 @@
-Numero_Centro_Medico,Nombre_Centro_Medico,Direccion_Centro_Medico
-1,Centro Médico Escaño,Calle Dr Delgado #2
-2,Centro Médico Corominas Pepin,Calle Prof Aliro Paulino 11
-3,Centro Médico Real,Av. Romulo Betancourt 515
-4,Centro Médico Otorrino,Av 27 de Febrero
-5,Centro Médico Integral l,Av Sabana Larga &, Santo Domingo Este 11501
-6,Centro Médico Integral ll,Carretera Mella, Santo Domingo Este
-7,Centro Médico Integral lll,Av. España, Santo Domingo Este 11601
-8,Centro Médico Gazcue,Av Simón Bolívar 357, Santo Domingo
-9,Centro Médico Luperón,Av. Pedro Livio Cedeño
-10,Hospital Dr. Darío Contreras,Calle Club Rotario, Santo Domingo Este 11503
+Numero_Persona,Nombre_Usuario,Contraseña_Usuario
+(2,'SaraMerejo', '2859'),
+(3,'CarlosFalette', '4978'),
+(4,'JuanitoAlimaña', '1236'),
+(5,'DanielCaceres', '1324'),
+(6,'MariaSantana', '5784'),
+(7,'AmyOzuna', '0245'),
+(8,'JoseMartinez', '3652'),
+(9,'BenitoOcasio', '1456'),
+(10,'CamalyDelosSantos', '1326'),
+(11,'AlberioRodriguez', '1254')
