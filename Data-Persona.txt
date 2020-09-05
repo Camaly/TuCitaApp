@@ -1,10 +1,11 @@
 Cedula_Persona, Nombre_Persona,Edad_Persona,Sexo_Persona
+('40215653698','Camaly De los Santos,19, 'F'),
 ('00159622650','Sara Merejo', 18, 'F'),
-('47999232389','Carlos Falette', 24, 'F'),
-('40568666696','Juanito Alimaña', 19, 'F'),
-('40215989932','Daniel el loco', 28, 'F'),
+('47999232389','Carlos Guzman', 24, 'M'),
+('40568666696','Juanito Alimaña', 19, 'M'),
+('40215989932','Daniel Caceres', 28, 'M'),
 ('00158976309','Maria Santana', 21, 'F'),
 ('26795309879','Amy  Ozuna', 20, 'F'),
-('40277963181','Jose Martinez', 35, 'F'),
-('48962862656','Benito Ocasio', 30, 'F'),
-('89964643006','Alberio Rodriguez', 23, 'F')
+('40277963181','Jose Hernandez', 35, 'M'),
+('48962862656','Antonio Martinez', 30, 'M'),
+('89964643006','Alberio Rodriguez', 23, 'M')
