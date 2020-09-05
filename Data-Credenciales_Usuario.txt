@@ -1,5 +1,5 @@
 Numero_Persona,Nombre_Usuario,Contraseña_Usuario
-(2,'CamalyDelosSantos', '2859'),
+(2,'CamalyDelosSantos', '28598'),
 (3,'SaraMerejo', '4978'),
 (4,'CarlosGuzman', '1236'),
 (5,'JuanitoAlimaña', '1324'),
